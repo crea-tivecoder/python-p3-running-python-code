@@ -356,3 +356,7 @@ progress through this phase!
 - [Python Getting Started](https://www.w3schools.com/python/python_getstarted.asp)
 - [pipenv Documentation](https://pipenv.pypa.io/en/latest/)
 - [pytest Documentation](https://docs.pytest.org/en/7.1.x/)
+
+
+
+ ## COMPUTATIONAL THINKING
